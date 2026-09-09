@@ -1,0 +1,24 @@
+{
+  "schema": 1,
+  "version": "osm-gr-2026-09-09-v36628",
+  "attribution": "© OpenStreetMap contributors",
+  "source": {
+    "url": "https://download.geofabrik.de/europe/greece-260908.osm.pbf",
+    "date": "2026-09-08T20:21:01Z",
+    "replication_url": "https://download.geofabrik.de/europe/greece-updates",
+    "replication_sequence": 4904,
+    "license": "ODbL-1.0"
+  },
+  "graph": {
+    "url": "https://raw.githubusercontent.com/lageorgem/CityROute-data/main/gr_all_city_walk.crpg",
+    "sha256": "505b2d65137dd63e5ef9df7c7287fe6d26e75027717b43659cac54bfff68aef3",
+    "bytes": 83133209,
+    "format": 3
+  },
+  "access_points": {
+    "url": "https://raw.githubusercontent.com/lageorgem/CityROute-data/main/gr_all_city_access_points.json",
+    "sha256": "0d45e38d1b9a7bf4d76fbc8aadb0782dfeac2afb71226889d758f827f0e8ff5c",
+    "bytes": 504683,
+    "format": 2
+  }
+}
